@@ -1,0 +1,15 @@
+.vote-card{
+    color: white;
+    background: rgba(0, 0, 0, 0.8);
+}
+
+.blur{
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+}
+
+.container {
+    margin-top: 50px;
+    columns: 2 auto;
+    column-gap: 20px;
+ }
